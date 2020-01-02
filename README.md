@@ -1,3 +1,3 @@
 # firstRepository
-. This is cool
-. Figuering this out as I go
+* This is cool
+* Figuering this out as I go
